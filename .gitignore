@@ -1,1 +1,4 @@
-.git
+.settings
+.classpath
+.project
+target
